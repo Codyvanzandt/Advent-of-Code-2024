@@ -27,3 +27,4 @@ def solve_part_2(first_col, second_col):
 
 print(solve_part_1(*parse_puzzle_input(puzzle_input)))
 print(solve_part_2(*parse_puzzle_input(puzzle_input)))
+print("Hello world!")
